@@ -3,6 +3,7 @@
 The project is focused on developing a system for securely hiding secret messages or data within digital images while maintaining the image's visual quality. Key components of the project include image selection, encoding, encryption, steganalysis resistance, and user-friendly features. The project aims to create a tool with various applications, such as secure communication, data protection, digital watermarking, and privacy preservation. The expected outcomes include a functional, user-friendly steganography system capable of securely embedding and extracting data within digital images. This project contributes to the field of security and privacy by offering a means of hidden data transmission and content protection.
 
 Objective:
+
 The Image Steganography Implementation project aims to create a system for hiding secret messages or data within digital images while maintaining the image's visual integrity. 
 Steganography is a technique used to covertly transmit information and is often employed for security and confidentiality purposes.
 
